@@ -1,0 +1,7 @@
+D:\GitHub\XCppCs.Class\source\XCppCsClass\xcs\bin\Release\xcs.dll
+D:\GitHub\XCppCs.Class\source\XCppCsClass\xcs\bin\Release\xcs.pdb
+D:\GitHub\XCppCs.Class\source\XCppCsClass\xcs\bin\Release\xcs.tlb
+D:\GitHub\XCppCs.Class\source\XCppCsClass\xcs\obj\Release\xcs.csprojResolveAssemblyReference.cache
+D:\GitHub\XCppCs.Class\source\XCppCsClass\xcs\obj\Release\xcs.csproj.CoreCompileInputs.cache
+D:\GitHub\XCppCs.Class\source\XCppCsClass\xcs\obj\Release\xcs.dll
+D:\GitHub\XCppCs.Class\source\XCppCsClass\xcs\obj\Release\xcs.pdb
